@@ -1,0 +1,25 @@
+Veri seti hikayesi: Veri seti 2008 ve 2023 yılları arasına ait.
+Yaklasık 23 bin gözlem ve 20 değişkenden olusan havayolu şirketleri değerlendirme veri seti.
+
+
+Features of the Dataset:
+
+Airline Name - Havayolu şirketinin adı
+Overall Rating - Toplam puanlama
+Review Title - Yorum başlığı
+Review Date - Yorum tarihi
+Verified (whether the review is verified or not) - Yorumun onaylı olup olmaması durumu
+Review - Yorum
+Aircraft - Uçak modeli
+Type of Traveller - Seyahat tipi
+Seat Type - Koltuk tipi
+Route - Rota
+Date Flown - Uçuş tarihi
+Seat Comfort - Koltuk konforu
+Cabin Staff Service - Kabin hizmetleri
+Food & Beverages - Yiyecek ve içecek
+Ground Service - Yer hizmetleri
+Inflight Entertainment - Uçak içi eğlendirici veya oyalayıcı hizmet
+Wifi & Connectivity - Wifi
+Value for Money - Paranın karşılığı 
+Recommended - Önerilme durumu
